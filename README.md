@@ -852,7 +852,7 @@ Output
     {
         "_id": "67eca47667cf87e403d9b532",
         "title": "Hello again, Mongoose!",
-        "author": "Daniel Bugl",
+        "author": "Aye Chan",
         "contents": "This post is stored in a MongoDB database using Mongoose.",
         "tags": [
             "mongoose",
